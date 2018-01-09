@@ -9,7 +9,6 @@
 	 	* `add, remove, contains, getValue`
 	 4. Creating a comparator for an object to be the key in a TreeMap/Set.
 	 5. Traversing a TreeMap, TreeSet.
-	 6. Tricks and Pitfalls.
 	 
 2. Heap (Java PriorityQueue)
 	 1. Creating PriorityQueues.
