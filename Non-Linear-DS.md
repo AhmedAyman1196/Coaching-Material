@@ -47,8 +47,7 @@
 
 | Problem        | Tags          | Notes  | Solution |
 |:------------- |:-------------|:-----|:--------|
-| [I Can Guess the Data Structure!](Problem Link)      |  Queues,Stacks,Priority Queues   | simulate the operation using the required datastructres   | [Link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v119/ICanGuessTheDataStructure_UVa11995.java) |
+| [I Can Guess the Data Structure](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3146)      |  Queues,Stacks,Priority Queues   | simulate the operation using the required datastructres   | [Link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v119/ICanGuessTheDataStructure_UVa11995.java) |
 | [CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2949)      |  Hash/Treeset   | _    | [Link](https://ideone.com/hJPndm) |
 | [Andy's Second Dictionary](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2003)      |  Treeset   | _    | [Link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v110/AndysSecondDicitionary_UVa11062.java) |
-| [Conformity](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2261)      |  Treemap   | _    | [Link](
-https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v112/Conformity_UVa11286.java) |
+| [Conformity](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2261)      |  Treemap   | _    | [Link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v112/Conformity_UVa11286.java) |
