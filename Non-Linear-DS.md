@@ -29,8 +29,6 @@
 |:------------------------- |:--------------------------------|
 |CP section: 2.3            | Most of the outline points           |
 |[Additional Resorurces](https://www.google.com)            | add additional tutorials          |
-|[Supp Material](https://github.com/AhmadElsagheer/Competitive-programming-library/blob/master/curriculum/outlines/data_structures/linear_ds_supps.md)| needs to be done |
-
 ---
 ## Problem Sets
 ### Problem Set #1
