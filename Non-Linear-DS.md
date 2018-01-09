@@ -6,20 +6,16 @@
 	 2. Creating TreeMaps and TreeSets.
 	 3. Important functions and their complexity:
 	 	* `add, remove, contains, getValue`
-	 4. How it works internally.
-	 5. Creating a comparator for an object to be the key in a TreeMap/Set.
-	 6. Traversing a TreeMap, TreeSet.
-	 7. Tricks and Pitfalls.
-	 	* Example : Wrong comparat
-	 
+	 4. Creating a comparator for an object to be the key in a TreeMap/Set.
+	 5. Traversing a TreeMap, TreeSet.
+	 6. Tricks and Pitfalls.	 
 2. Heap (Java PriorityQueue)
 	 1. Creating PriorityQueues.
 	 2. Important functions and their complexities:
 	 	* `add, poll, peek`
-	 3. How sorting is done internally + sorting complexity.
-	 		
+	 3.Defining a comparator
 3. Hash Table (Java HashMap/HashSet)
-	1. Creating PriorityQueues.
+	1. Creating Hash/TreeMaps , Hash/TreeSets.
 	2. Important functions and their complexities.
 	3. HashMap/Set vs TreeMap/Set.
 	4. Creating Hash functions and avoiding collisions.	
@@ -28,7 +24,10 @@
 | Resource                  | Points Covered                  |
 |:------------------------- |:--------------------------------|
 |CP section: 2.3            | Most of the outline points           |
-|[Additional Resorurces](https://www.google.com)            | add additional tutorials          |
+|[HE Heaps and Priority Queues](https://www.hackerearth.com/practice/data-structures/trees/heapspriority-queues/tutorial/)            | 2        |
+|[HE Hashing basics](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)            | 3-iv        |
+|[HE Heaps and Priority Queues](https://www.hackerearth.com/practice/notes/heaps-and-priority-queues/)            | 2        |
+
 ---
 ## Problem Sets
 ### Problem Set #1
