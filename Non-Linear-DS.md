@@ -2,23 +2,27 @@
 ---
 ## Outline
 1. Balanced Binary Search Tree (Java TreeMap/TreeSet)
+
 	 1. Difference between a map and a set.
 	 2. Creating TreeMaps and TreeSets.
 	 3. Important functions and their complexity:
 	 	* `add, remove, contains, getValue`
 	 4. Creating a comparator for an object to be the key in a TreeMap/Set.
 	 5. Traversing a TreeMap, TreeSet.
-	 6. Tricks and Pitfalls.	 
+	 6. Tricks and Pitfalls.
+	 
 2. Heap (Java PriorityQueue)
 	 1. Creating PriorityQueues.
 	 2. Important functions and their complexities:
 	 	* `add, poll, peek`
-	 3.Defining a comparator
+	 3.Defining a comparator.
+	 
 3. Hash Table (Java HashMap/HashSet)
 	1. Creating Hash/TreeMaps , Hash/TreeSets.
 	2. Important functions and their complexities.
 	3. HashMap/Set vs TreeMap/Set.
-	4. Creating Hash functions and avoiding collisions.	
+	4. Creating Hash functions and avoiding collisions.
+	
 ---
 ## Material Resources
 | Resource                  | Points Covered                  |
