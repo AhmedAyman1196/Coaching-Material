@@ -45,6 +45,7 @@
 
 | Problem        | Tags          | Notes  | Solution |
 |:------------- |:-------------|:-----|:--------|
+| [Hay Points](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=631&page=show_problem&problem=1236)      |  TreeMap   | _    | [Link](https://ideone.com/w1Onpp) |
 | [I Can Guess the Data Structure](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3146)      |  Queues,Stacks,Priority Queues   | simulate the operation using the required datastructres   | [Link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v119/ICanGuessTheDataStructure_UVa11995.java) |
 | [CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2949)      |  Hash/TreeSet   | _    | [Link](https://ideone.com/hJPndm) |
 | [Andy's Second Dictionary](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2003)      |  TreeSet   | _    | [Link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v110/AndysSecondDicitionary_UVa11062.java) |
