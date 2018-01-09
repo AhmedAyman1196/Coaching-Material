@@ -40,7 +40,7 @@
 | [Andy's First Dictionary](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1756)      |  Hash/Treeset   | some input parsing , sort output    | [Link](https://ideone.com/haO0a1) |
 | [Add All](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1895)      |  Priority Queues   | better to add the smallest numbers first    | [Link](https://ideone.com/2aHcCe) |
 | [Updating a Dictionary](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3948)      |  TreeMap   | _    | [Link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v125/UpdatingADictionary_UVa12504.java) |
-| [Pangram](http://codeforces.com/problemset/problem/520/A)      |  Hashset   | you can solve it with     | [Link](http://codeforces.com/contest/520/submission/34050010) |
+| [Pangram](http://codeforces.com/problemset/problem/520/A)      |  Hash/Treeset   | can be solved with a boolean array     | [Link](http://codeforces.com/contest/520/submission/34050010) |
 | [Argus](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3644)      |  Priority Queue   | -    | [Link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v012/Argus_UVa1203.java) |
 
 ### Problem Set #2
